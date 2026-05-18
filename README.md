@@ -6,12 +6,3 @@ Python 3.x
 Django 6.0.3
 Django REST Framework 3.17.0
 SQLite (banco de dados local para desenvolvimento)
-Estrutura do projeto
-sgta/
-├── backend/
-│   ├── config/          # Configurações do projeto Django (settings, urls, wsgi)
-│   ├── tarefas/         # App de tarefas (model, views, urls)
-│   ├── usuarios/        # App de usuários (model, views, urls)
-│   ├── manage.py
-│   └── requirements.txt
-└── docker-compose.yml
